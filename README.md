@@ -57,11 +57,6 @@ I focus on writing clean, maintainable code and turning ideas into real-world di
 - Implemented authentication and **role-based access control**
 - Managed student records and admin workflows with structured backend logic
 
-### 📌 AI Chatbot System
-- Built an AI-powered chatbot for **real-time user interaction**
-- Integrated API-based intelligent response system
-- Designed responsive chat interface and optimized response flow
-
 ### 📌 SkillBridge (Learning & Internship Platform)
 - Created a full-stack platform for learning and internship management
 - Built responsive UI using **React** and **Tailwind CSS**
@@ -104,13 +99,13 @@ I focus on writing clean, maintainable code and turning ideas into real-world di
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/muzamil-shahbaz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
+<a href="https://muzammilshahbaz.vercel.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+  <a href="mailto:muzamil987614@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
